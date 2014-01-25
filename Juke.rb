@@ -1,4 +1,4 @@
-ass JukeBox
+class JukeBox
   attr_accessor :playlist, :index
 
   def initialize
